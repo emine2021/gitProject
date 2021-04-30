@@ -17,7 +17,9 @@ public class Myclass01 {
 
 		System.out.println("degısıklık yaptım ama commit oluşturmadım sadece save yaptım");
 		System.out.println("remote da degısıklık");
-		System.out.println("branch olusturduk-feature branch");
+		System.out.println("branch olusturduk-feature branch"); //branch i cmd de değistirince kod feature da gozukuyor master da gozukmuyor
+		System.out.println("baska degisiklik");
+		
 
 
 		
