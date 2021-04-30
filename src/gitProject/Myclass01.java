@@ -4,14 +4,15 @@ public class Myclass01 {
 
 	public static void main(String[] args) {
 
-		System.out.println("BÝrinci gün");
+		System.out.println("BÃ�rinci gÃ¼n");
 
-		System.out.println("Birinci gÃ¼n");
+		System.out.println("Birinci gÃƒÂ¼n");
 
 		System.out.println("ikinci commit");
-		System.out.println("Ä°kinci GÃ¼n");
-		System.out.println("ýkýncý gun 2.degýsýklýk");
+		System.out.println("Ã„Â°kinci GÃƒÂ¼n");
+		System.out.println("Ã½kÃ½ncÃ½ gun 2.degÃ½sÃ½klÃ½k");
 		System.out.println("degisiklik03");
+		System.out.println("local de degısıklık04");
 
 	}
 
