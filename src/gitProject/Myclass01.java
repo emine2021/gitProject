@@ -17,6 +17,7 @@ public class Myclass01 {
 
 		System.out.println("degısıklık yaptım ama commit oluşturmadım sadece save yaptım");
 		System.out.println("remote da degısıklık");
+		System.out.println("branch olusturduk-feature branch");
 
 
 		
