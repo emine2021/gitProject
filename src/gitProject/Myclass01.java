@@ -12,8 +12,10 @@ public class Myclass01 {
 		System.out.println("Ã„Â°kinci GÃƒÂ¼n");
 		System.out.println("Ã½kÃ½ncÃ½ gun 2.degÃ½sÃ½klÃ½k");
 		System.out.println("degisiklik03");
+
 		System.out.println("local de degısıklık04");
 
+		
 	}
 
 }
