@@ -14,7 +14,10 @@ public class Myclass01 {
 		System.out.println("degisiklik03");
 		System.out.println("degisiklik04");
 		System.out.println("local de degısıklık04");
+
 		System.out.println("degısıklık yaptım ama commit oluşturmadım sadece save yaptım");
+		System.out.println("remote da degısıklık");
+
 
 		
 	}
