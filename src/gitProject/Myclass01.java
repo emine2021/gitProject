@@ -20,8 +20,8 @@ public class Myclass01 {
 		System.out.println("branch olusturduk-feature branch"); //branch i cmd de değistirince kod feature da gozukuyor master da gozukmuyor
 		System.out.println("baska degisiklik");
 		System.out.println(" daha once master da degılmisim:) master branch e satır ekledik");
-		
-
+		System.out.println("feature a yeni satir");
+		System.out.println("tekrar degisiklik feature branch de");
 
 		
 	}
