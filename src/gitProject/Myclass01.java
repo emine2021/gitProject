@@ -4,13 +4,14 @@ public class Myclass01 {
 
 	public static void main(String[] args) {
 
-		System.out.println("B�rinci g�n");
+		System.out.println("BÝrinci gün");
 
-		System.out.println("Birinci gün");
+		System.out.println("Birinci gÃ¼n");
 
 		System.out.println("ikinci commit");
-		System.out.println("İkinci Gün");
-		System.out.println("�k�nc� gun 2.deg�s�kl�k");
+		System.out.println("Ä°kinci GÃ¼n");
+		System.out.println("ýkýncý gun 2.degýsýklýk");
+		System.out.println("degisiklik03");
 
 	}
 
