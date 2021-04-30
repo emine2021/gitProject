@@ -12,6 +12,7 @@ public class Myclass01 {
 		System.out.println("Ä°kinci GÃ¼n");
 		System.out.println("ýkýncý gun 2.degýsýklýk");
 		System.out.println("degisiklik03");
+		System.out.println("degisiklik04");
 
 	}
 
